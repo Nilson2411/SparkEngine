@@ -21,4 +21,4 @@ if __name__ == "__main__":
     MainApp().run()
     
     "holaa xddd" 
-    "Hola 2 xd"
+    "Hola 2 xdd"
