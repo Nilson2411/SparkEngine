@@ -19,16 +19,3 @@ class MainApp(MDApp):
 
 if __name__ == "__main__":
     MainApp().run()
-    
-<<<<<<< HEAD
-    "Hola 3 xd"
-=======
-    "holaa xddd" 
-    "Hola 2 xdd"
-<<<<<<<< HEAD:AppkibyMD/main.Py
-    "Holaa 3 xddd"
-    "Hola 4 XD"
-========
-    "Holaa 3 xd"
->>>>>>>> f14e1cfae844cc7f79dd4f5b9a9ba70bced1e317:amiigo python/AppkibyMD/main.Py
->>>>>>> 3a956a8080f8bb3caf0f78f3b381676761ee4cff
